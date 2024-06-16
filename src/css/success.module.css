@@ -1,0 +1,28 @@
+.change{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.main{
+    width: 60vw;
+    height: 70vh;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    
+}
+.link{
+    margin-top: 5em;
+}
+.tit{
+    margin-bottom: 2em;
+}
+
+.high{
+    height: 10em;
+    width: 10em;
+}

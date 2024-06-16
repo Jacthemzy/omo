@@ -1,0 +1,10 @@
+.area {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    /* height: 10vh; */
+    width: 100%;
+    justify-content: center;
+    text-align: left;
+}
+

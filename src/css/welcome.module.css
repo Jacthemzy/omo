@@ -1,0 +1,65 @@
+.change{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    
+}
+.lag{
+    color: rgb(39, 224, 39);
+    font-size: 3em;
+    font-weight: 900;
+
+}
+.lag2{
+    color: black;
+    margin: 1em 0;
+    font-size: 2em;
+}
+
+.but{
+    background: lightgreen;
+    height: 3em;
+    width: 15vw;
+    font-weight: 900;
+    font-size: 1.1em;
+    cursor:pointer;
+    text-align: center;
+    
+}
+.but:hover{
+    background: rgb(161, 202, 147);
+}
+.h3{
+    color: black;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 6em;
+    display: flex;
+    padding-left: 5em;
+    gap: 1em;
+    justify-self: center;
+}
+h1,h2{
+    font-size: 3em;
+    font-weight: 900;
+    color: green;
+    margin: 0 0 3em 0 ;
+    text-align: center;
+}
+h2{
+    color: black;
+}
+a{
+    color: lightgreen;
+    text-decoration: none;
+}
